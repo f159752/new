@@ -5,5 +5,6 @@ public class main {
     public static void main(String[] args){
         my_class obj = new my_class(5,10);
         System.out.print(obj.plus());
+	System.out.print(obj.minus());
     }
 }
